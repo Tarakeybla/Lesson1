@@ -11,7 +11,5 @@ public class Main {
         Course course = new Course(10);
         String result = course.doIt(teams);
         System.out.println(result);
-
-
     }
 }
